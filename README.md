@@ -6,7 +6,9 @@ This repository contains a sample sales data file for a data analysis dashboard,
 - Monthly Category Trends: Analyzing how product categories perform over time.
 - Average Order Value by State: Calculating the average order value for each state.
 
+
 **Repository Content**
+
 Sample_sales_data.csv: Sample sales data file containing transactional data
 README.md: This file, providing an overview and instructions.
 
@@ -49,10 +51,12 @@ Discount: Percentage iscount applied to the transaction.
 
 Profit: Profit from the transaction (USD).
 
+
 **Notes**
 
 This dataset is a subset derived from the Kaggle Superstore dataset but is a good representation of the company's sales files. Due to privacy concerns, the original dataset is not shared.
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
 
 **License**
 
