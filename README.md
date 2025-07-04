@@ -12,6 +12,7 @@ README.md: This file, providing an overview and instructions.
 **Data Description**
 The Sample_sales_data.csv file contains the following columns:
 Order ID: Unique transaction identifier.
+
 Order Date: Date of the transaction.
 Customer ID: Unique customer identifier.
 Customer Name: Name of the customer.
