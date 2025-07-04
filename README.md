@@ -50,9 +50,11 @@ Discount: Percentage iscount applied to the transaction.
 Profit: Profit from the transaction (USD).
 
 **Notes**
+
 This dataset is a subset derived from the Kaggle Superstore dataset but is a good representation of the company's sales files. Due to privacy concerns, the original dataset is not shared.
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 **License**
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
