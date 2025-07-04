@@ -11,24 +11,41 @@ README.md: This file, providing an overview and instructions.
 
 **Data Description**
 The Sample_sales_data.csv file contains the following columns:
+
 Order ID: Unique transaction identifier.
 
 Order Date: Date of the transaction.
+
 Customer ID: Unique customer identifier.
+
 Customer Name: Name of the customer.
+
 Segment: Customer segment (e.g., Consumer, Corporate).
+
 Country: Country of sale (U.S. only in this dataset).
+
 City: City of sale.
+
 State: U.S. state of sale.
+
 Postal Code: Postal code of sale location.
+
 Region: U.S. region (e.g., Northeast, South).
+
 Product ID: Unique product identifier.
+
 Category: Product category (e.g., Electronics, Furniture).
+
 Sub-Category: Product sub-category (e.g., Phones, Chairs).
+
 Product Name: Name of the product.
+
 Sales: Total revenue from the transaction (USD).
+
 Quantity: Number of items sold.
+
 Discount: Percentage iscount applied to the transaction.
+
 Profit: Profit from the transaction (USD).
 
 **Notes**
