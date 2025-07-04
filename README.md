@@ -1,9 +1,10 @@
 **Overview**
 
 This repository contains a sample sales data file for a data analysis dashboard, created for a freelancing project for a small chain of retail stores operating across multiple U.S. states. The dashboard aims to provide insights into regional and product category performance, including:
-Revenue by State: Identifying which states generate the most revenue.
-Monthly Category Trends: Analyzing how product categories perform over time.
-Average Order Value by State: Calculating the average order value for each state.
+
+- Revenue by State: Identifying which states generate the most revenue.
+- Monthly Category Trends: Analyzing how product categories perform over time.
+- Average Order Value by State: Calculating the average order value for each state.
 
 **Repository Content**
 Sample_sales_data.csv: Sample sales data file containing transactional data
